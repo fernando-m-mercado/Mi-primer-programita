@@ -1,6 +1,6 @@
-let peso = prompt("introduzca su peso");
+let peso = prompt("introduzca su peso en Kg");
 
-let altura = prompt ("introduzca su altura");
+let altura = prompt ("introduzca su altura en metros (Ej: 1.75)");
 
 
 let indice = peso / (altura **2 );
